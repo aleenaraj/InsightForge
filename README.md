@@ -48,6 +48,6 @@ pip install -r requirements.txt
 - ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chain&logoColor=white) LangChain
 
 **Data Visualization:**
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) Matplotlib
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
 - ![Seaborn](https://img.shields.io/badge/Seaborn-00)
 
