@@ -44,5 +44,5 @@ pip install -r requirements.txt
 
 **Data Visualization:**
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) Matplotlib
-- ![Seaborn](https://img.shields.io/badge/Seaborn-00
+- ![Seaborn](https://img.shields.io/badge/Seaborn-00)
 
