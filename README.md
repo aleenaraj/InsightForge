@@ -29,6 +29,7 @@ To get started with the project, clone the repository and install the required d
 git clone https://github.com/yourusername/InsightForge-BI.git
 cd InsightForge-BI
 pip install -r requirements.txt
+```
 
 ## Technology Stack
 
@@ -38,8 +39,6 @@ pip install -r requirements.txt
 **Machine Learning and AI:**
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) Pandas
 - ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) Scikit-learn
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) TensorFlow
-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) PyTorch
 - ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA44?style=flat&logo=huggingface&logoColor=black) Hugging Face Transformers
 - ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chain&logoColor=white) LangChain
 
