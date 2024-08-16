@@ -1,6 +1,11 @@
 # InsightForge-BI
 
 **Enabling AI-Powered Business Intelligence for Organizations**
+## 🚀 Features
+- 🔍 AI-Powered Data Analysis
+- 📊 Interactive Data Visualizations
+- 🤖 Integration with LLM and RAG
+
 
 ## Problem Statement
 In today's data-driven business environment, organizations across industries accumulate vast amounts of data. However, many struggle to effectively transform this data into actionable insights, particularly small to medium enterprises that lack resources for sophisticated business intelligence tools.
