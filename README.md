@@ -42,12 +42,21 @@ pip install -r requirements.txt
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
 
 **Machine Learning and AI:**
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) Pandas
-- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) Scikit-learn
-- ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA44?style=flat&logo=huggingface&logoColor=black) Hugging Face Transformers
-- ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chain&logoColor=white) LangChain
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA44?style=flat&logo=huggingface&logoColor=black)
+- ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chain&logoColor=white)
 
 **Data Visualization:**
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
 - ![Seaborn](https://img.shields.io/badge/Seaborn-00)
+
+## Contributing
+We welcome contributions! Please follow these steps to contribute:
+
+**1. Fork the repository.**
+**2. Create a new branch (git checkout -b feature-branch).**
+**3. Commit your changes (git commit -am 'Add new feature').**
+**4. Push to the branch (git push origin feature-branch).**
+**5. Open a pull request.**
 
